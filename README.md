@@ -11,4 +11,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varga-mark-ors&show_icons=true&locale=en&layout=compact" alt="varga-mark-ors" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varga-mark-ors&show_icons=true&locale=en" alt="varga-mark-ors" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varga-Mark-Ors&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Varga-Mark-Ors/Varga-Mark-Ors/output/snake.svg" alt="Snake animation" />
+
+###
