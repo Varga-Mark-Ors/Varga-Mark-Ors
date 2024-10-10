@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Márk</h1>
 <h3 align="center">I am a student at University of Debrecen,Computer Science program.</h3>
 
-- 🔭 I’m currently working on **virtual reality project.**
+- 🔭 I’m currently working on a **virtual reality project.**
 
 - 🌱 I’m currently learning **Unity.**
 
